@@ -1,1 +1,1 @@
-A web application which finds the shortest sequence of Facebook friends which links you from you to any person on Facebook you choose.
+A web application which finds the shortest sequence of Facebook friends which links from you to any person on Facebook of your choosing.
